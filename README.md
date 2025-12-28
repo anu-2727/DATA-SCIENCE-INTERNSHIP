@@ -173,4 +173,26 @@ This task focuses on analyzing customer preferences by examining the relationshi
 ### File
 - DS task8.ipynb
 
+
+# Data Science Internship – Task 9
+
+## Task: Data Visualization
+
+This task focuses on creating visualizations to gain insights from restaurant data.
+
+### Objectives
+- Visualize the distribution of restaurant ratings using histograms, bar plots, and other charts
+- Compare average ratings of different cuisines and cities using appropriate visualizations
+- Explore relationships between various features and aggregate ratings to extract insights
+
+### Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
+
+### File
+- DS task9.ipynb
+
  
