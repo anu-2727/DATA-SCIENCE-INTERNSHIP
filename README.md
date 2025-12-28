@@ -130,4 +130,29 @@ This task focuses on creating new meaningful features from existing dataset colu
 - DS task6.ipynb
 
 
+# Data Science Internship – Task 7
+
+## Task: Predictive Modeling
+
+This task focuses on predicting restaurant aggregate ratings using regression models based on available features.
+
+### Objectives
+- Build regression models to predict the aggregate rating of a restaurant
+- Split the dataset into training and testing sets and evaluate model performance
+- Experiment with different algorithms
+   - Linear Regression
+   - Decision Tree Regression
+   - Random Forest Regression
+- Compare model performance using evaluation metrics such as Mean Squared Error (MSE) and R² score
+
+### Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- Google Colab
+  
+### File
+- DS task7.ipynb
+
+
  
