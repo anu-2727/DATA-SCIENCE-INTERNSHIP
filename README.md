@@ -67,6 +67,34 @@ This task focuses on analyzing restaurant locations using geographical data.
 - DS task3.ipynb
 
 
+Data Science Internship – Task 4
+Task: Table Booking and Online Delivery Analysis
+
+This task focuses on analyzing restaurant services such as table booking and online delivery using the given dataset.
+
+Objectives
+
+Determine the percentage of restaurants offering table booking
+
+Determine the percentage of restaurants offering online delivery
+
+Compare average ratings of restaurants with and without table booking
+
+Analyze online delivery availability across different price ranges
+
+Tools Used
+
+Python
+
+Pandas
+
+Google Colab
+
+File
+
+DS task4.ipynb
+
+
 
   
 
