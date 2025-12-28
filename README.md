@@ -110,6 +110,26 @@ This task focuses on analyzing restaurant price ranges and understanding how pri
 - DS task5.ipynb
 
 
+# Data Science Internship – Task 6
+
+## Task: Feature Engineering
+
+This task focuses on creating new meaningful features from existing dataset columns to enhance data analysis and model performance.
+
+### Objectives
+- Extract additional features such as the length of restaurant names and addresses
+- Encode categorical variables like table booking and online delivery into numerical format
+- Prepare the dataset for further analytical and machine learning tasks
+
+### Tools Used
+- Python
+- Pandas
+- Google Colab
+
+### File
+- DS task6.ipynb
+
+
 
 
 
