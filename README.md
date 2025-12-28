@@ -130,11 +130,4 @@ This task focuses on creating new meaningful features from existing dataset colu
 - DS task6.ipynb
 
 
-
-
-
-  
-
-
-
-
+ 
