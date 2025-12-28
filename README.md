@@ -155,4 +155,22 @@ This task focuses on predicting restaurant aggregate ratings using regression mo
 - DS task7.ipynb
 
 
+# Data Science Internship – Task 8
+
+## Task: Customer Preference Analysis
+This task focuses on analyzing customer preferences by examining the relationship between cuisine types and restaurant ratings.
+
+### Objectives
+- Analyze the relationship between the type of cuisine and the restaurant's aggregate rating
+- Identify the most popular cuisines among customers based on the number of votes
+- Determine if any specific cuisines tend to receive higher ratings
+
+### Tools Used
+- Python
+- Pandas
+- Google Colab
+
+### File
+- DS task8.ipynb
+
  
