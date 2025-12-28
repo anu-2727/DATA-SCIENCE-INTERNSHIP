@@ -88,6 +88,29 @@ This task focuses on analyzing restaurant services such as table booking and onl
 - DS task4.ipynb
 
 
+# Data Science Internship – Task 5
+
+## Task: Price Range Analysis
+
+This task focuses on analyzing restaurant price ranges and understanding how pricing relates to customer ratings.
+
+### Objectives
+- Identify the most common price range among restaurants
+- Calculate the average aggregate rating for each price range
+- Determine which price range has the highest average rating
+- Visualize rating trends across different price categories
+
+### Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+
+### File
+- DS task5.ipynb
+
+
+
 
 
   
